@@ -1,8 +1,8 @@
 #include <iostream>
 #include <ctype.h>
 using namespace std;
-int main()
-{
+int main(){
+    
     int n, bit;
     int bitstream[50];
     cout << "Assumption : 0 -> +ve and 1 -> -ve" << endl;
