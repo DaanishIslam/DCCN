@@ -30,7 +30,7 @@ void bitStuffing(string s){
 
     }
 
-    cout<<"\nThe stuffed code is : "
+    cout<<"\nThe stuffed code is : ";
     cout<<ans<<"\n";
 }
 
